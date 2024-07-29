@@ -10,7 +10,7 @@ The item above is not owned by me. They go to there respected owners
 
 ## Download
 
-1. Click on the file called `Delulu.css`.
+1. Click on the file called `Delulu.theme.css`.
 1. Click on the button called `Raw` at the top right of the file.
 1. Right click anywhere on page and Click `Save Page As`.
 1. Now you can navigate to your themes folder and save it there but for this procedure, just save it to your `Downloads` folder for now, we'll move it later in the Installation.
