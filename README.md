@@ -5,7 +5,7 @@ The item above is not owned by me. They go to there respected owners
 
 
 ## Preview
-![Preview](https://raw.githubusercontent.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/GGOThumbnail.PNG)
+![Preview](https://i.postimg.cc/RF31HjQQ/image-2024-07-30-032853775.png)
 
 
 ## Download
