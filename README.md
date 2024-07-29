@@ -1,5 +1,5 @@
 # GGO Kirito
-Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
+Background Img: https://i.postimg.cc/QM9K4j2w/wallpapersden-com-satoru-gojo-x-sukuna-hd-jujutsu-kaisen-epic-art-1927x1080.png
 
 The item above is not owned by me. They go to there respected owners
 
