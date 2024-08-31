@@ -1,4 +1,4 @@
-# GGO Kirito
+## GGO Kirito
 Background Img: 
 ![Preview](https://i.postimg.cc/QM9K4j2w/wallpapersden-com-satoru-gojo-x-sukuna-hd-jujutsu-kaisen-epic-art-1927x1080.png)
 
