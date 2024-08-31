@@ -1,5 +1,6 @@
 # GGO Kirito
-Background Img: https://i.postimg.cc/QM9K4j2w/wallpapersden-com-satoru-gojo-x-sukuna-hd-jujutsu-kaisen-epic-art-1927x1080.png
+Background Img: 
+![Preview](https://i.postimg.cc/QM9K4j2w/wallpapersden-com-satoru-gojo-x-sukuna-hd-jujutsu-kaisen-epic-art-1927x1080.png)
 
 The item above is not owned by me. They go to their respected owners
 
