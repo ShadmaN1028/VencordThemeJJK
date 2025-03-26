@@ -30,3 +30,10 @@ You can use this method is install other themes or plugins. This method assumes 
 1. Navigate to `C:\Users\USERNAME\AppData\Roaming\Vencord\themes`
 1. Paste your theme here. 
 1. You've now installed your theme and you can now safely close the window. Enjoy.
+
+
+<p align="center">
+  <a href="https://discordapp.com/users/764166470602457178">
+    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Join Discord">
+  </a>
+</p>
