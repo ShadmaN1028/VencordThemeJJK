@@ -1,4 +1,5 @@
-## GGO Kirito
+## JJK Theme
+
 Background Img: 
 
 
